@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WolfShooter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3890ef20dceb66189bb9354a6009d27b2dad0fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("WolfShooter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WolfShooter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
